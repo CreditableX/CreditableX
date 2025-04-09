@@ -1,4 +1,4 @@
-## Look here to judge me
+## Sec stuff
 
 1. [Hack the Box Profile](https://app.hackthebox.com/profile/2197623)
 2. CTFWriteups pinned repo
